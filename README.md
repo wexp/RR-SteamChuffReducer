@@ -26,4 +26,4 @@ When that is done, drag this .zip onto Railloader.exe.
 
 # What about multiplayer?
 Should work fine in multiplayer, host does not need this installed to work.
-![image](https://github.com/wexp/RR-SteamChuffReducer/assets/16766593/930a0554-5b67-409d-952a-1bdc3092a192)
+![SteamChuffReducer1_1](https://github.com/wexp/RR-SteamChuffReducer/assets/16766593/d9ffa3bd-fe75-4dba-9770-0042a3933d68)
