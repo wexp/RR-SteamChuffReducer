@@ -12,7 +12,13 @@ You can change the settings on the fly, and enable/disable the mod without any l
 The game seems to have an upper limit to how many particles can be present at the same time, if you overdo it on Rate or Lifetime particle production will "stop".
 Lower these settings and wait for a bit and they will come back.
 
-For improving framerate, it seems lowering Rate and Lifetime has the best effects.
+For improving framerate, it seems lowering Size and Lifetime has the best effects.
+
+# New in v1.1:
+- Includes a bandaid fix for RR-324 "exhaust smoke disappears in notch 7 & 8", can be used without enabling any other functions of this mod.
+- Ability to customize diesel smoke effects separately from steam smoke effects
+- Ability to change the animation curve values for the particle effects, giving interesting options
+- Ability to set custom color values for particle effects
 
 # How to install?
 You will need to get Zamu's Railloader from https://railroader.stelltis.ch/, install following the instructions there.
